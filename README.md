@@ -1,14 +1,11 @@
-# COGNICHAT
+# FINBUDDY
 **An Intelligent Chatbot for Personalised Financial Services**
 
 
 **Project Team:**
-1.	Ishika Agarwal (18103034) 
-2.	Devanshi Garg (18103045)
-3.	Riddhi Mahajan (18103110)
-4.	Ishita Arora (18103130)
+1.	Yeshwanth Reddy[20BAI10371]
+2.	B.Sri Harshitha[20BCG10061]
 
-**Project Mentor:** Dr. Poonam Saini, Faculty, Computer Science and Engineering
 
 ## STATEMENT
 
